@@ -1,0 +1,29 @@
+{
+  "name": "sigs",
+  "version": "1.0.0",
+  "description": "Archive of a mu online forums signatures request website.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "./node_modules/.bin/gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muonlineph/sigs.git"
+  },
+  "keywords": [
+    "gulp",
+    "live-reload"
+  ],
+  "author": "weaponsforge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muonlineph/sigs/issues"
+  },
+  "homepage": "https://github.com/muonlineph/sigs#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2"
+  }
+}

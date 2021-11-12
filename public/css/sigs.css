@@ -1,0 +1,83 @@
+BODY {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-SIZE: 62.5%; 
+	BACKGROUND: url(hardwired_bak.gif) #333 left top; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	COLOR: #999; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: tahoma, verdana, arial, sans-serif; 
+	TEXT-ALIGN: center
+}
+
+TD.title {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-SIZE: 40; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 10px; 
+	COLOR: #999; 
+	PADDING-TOP: 5px; 
+	FONT-FAMILY: tahoma, verdana, arial, sans-serif; 
+	TEXT-ALIGN: justify
+	}
+
+TD.mainFont {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 10px; 
+	FONT-SIZE: 66.5%; 
+	PADDING-BOTTOM: 3px; 
+	MARGIN: 10px; 
+	COLOR: #999; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: tahoma, verdana, arial, sans-serif; 
+	TEXT-ALIGN: justify
+	}
+	
+TD.mainFontLeft {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 10px; 
+	FONT-SIZE: 66.5%; 
+	PADDING-BOTTOM: 2px; 
+	MARGIN: 10px; 
+	COLOR: #999; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: tahoma, verdana, arial, sans-serif; 
+	TEXT-ALIGN: left;
+	}
+
+TD.mainfontCenter {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 10px; 
+	FONT-SIZE: 66.5%; 
+	PADDING-BOTTOM: 2px; 
+	MARGIN: 10px; 
+	COLOR: #999; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: tahoma, verdana, arial, sans-serif; 
+	TEXT-ALIGN: center;
+	}
+	
+A:link {
+	COLOR: #999; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: lightslategray; TEXT-DECORATION: none
+}
+A IMG {
+	BORDER-RIGHT: #2d3239 3px solid; 
+	BORDER-TOP: #2d3239 3px solid; 
+	BORDER-LEFT: #2d3239 3px solid; 
+	BORDER-BOTTOM: #2d3239 3px solid
+}
+
+A:hover IMG {
+	BORDER-RIGHT: #5a626f 3px solid; 
+	BORDER-TOP: #5a626f 3px solid; 
+	BORDER-LEFT: #5a626f 3px solid; 
+	BORDER-BOTTOM: #5a626f 3px solid
+}

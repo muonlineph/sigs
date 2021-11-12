@@ -1,0 +1,11 @@
+node_modules/
+.firebase/
+public/300x86/*.gif
+public/downloads/v1.0/*.zip
+public/downloads/v1.1/01/*.zip
+public/downloads/v1.1/02/*.zip
+public/downloads/v1.1/03/*.zip
+public/downloads/v1.1/04/*.zip
+public/files/*.gif
+public/files/*.rar
+public/files/*.zip
