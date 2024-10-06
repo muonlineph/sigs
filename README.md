@@ -38,7 +38,7 @@ This project has no dependencies since it only contains static website files. Ot
 ## Installation
 
 1. Clone this repository.<br>
-`https://gitlab.com/arcsource/web-design/sigs.git`
+`https://github.com/muonlineph/sigs.git`
 
 2. Pull the local web server image (this requires Docker installed).<br>
 `docker pull weaponsforge/livereload-basic:latest`
@@ -51,7 +51,7 @@ This project has no dependencies since it only contains static website files. Ot
 
 ## Usage
 
-1. Navigate to the project root directory using a terminal, then run the web server.<br>
+1. Navigate to the project root directory using a terminal, then run the local web server.<br>
 `docker run -it --rm -p 3000:3000 -v %cd%\public:/opt/app/public -e IS_DOCKER=true -e USE_POLLING=true weaponsforge/livereload-basic:latest`
 
 2. Load the localhost website at:<br>
@@ -62,7 +62,7 @@ This project has no dependencies since it only contains static website files. Ot
 	    - Loads assets and media from online storage references on Photobucket and Firebase Storage
    - `http://localhost:3000/offline`
       - Loads assets and media from public local development environment references
-      - Download the required files first for the following directories from the [mirror 1](https://firebasestorage.googleapis.com/v0/b/weaponsforge-demo.appspot.com/o/sigs-request%2Flocal-assets.zip?alt=media&token=9c27b849-8eaa-4ad0-ad1b-e97a2a61f7e1) or [mirror 2](https://drive.google.com/drive/folders/1D3B-CRLR3iT8PJub1w6vwmqjV9sbxo6V?usp=sharing) assets backup before proceeding:
+      - Download the required files first for the following directories from the [mirror1](https://firebasestorage.googleapis.com/v0/b/weaponsforge-demo.appspot.com/o/sigs-request%2Flocal-assets.zip?alt=media&token=9c27b849-8eaa-4ad0-ad1b-e97a2a61f7e1) or [mirror2](https://drive.google.com/drive/folders/1D3B-CRLR3iT8PJub1w6vwmqjV9sbxo6V?usp=sharing) assets backup before proceeding:
 
          ```
          /public/300x86
