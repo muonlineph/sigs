@@ -12,7 +12,7 @@ The animated GIFs and large reference graphics files are now hosted on Firebase 
 
 ## Demo
 
-https://muonlineph.github.io/sigs/public/
+https://muonlineph.github.io/sigs/
 
 ## Assets and Related Files
 
