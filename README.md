@@ -16,7 +16,7 @@ https://muonlineph.github.io/sigs/
 
 ## Assets and Related Files
 
-- local-assets: [ [mirror 1](https://firebasestorage.googleapis.com/v0/b/weaponsforge-demo.appspot.com/o/sigs-request%2Flocal-assets.zip?alt=media&token=9c27b849-8eaa-4ad0-ad1b-e97a2a61f7e1) | [mirror 2](https://drive.google.com/drive/folders/1KdY_BEnuetJ4_Qc5GZcyrSe7oGueP9qC?usp=sharing) ]
+- local-assets: [ [mirror 1](https://firebasestorage.googleapis.com/v0/b/weaponsforge-demo.appspot.com/o/sigs-request%2Flocal-assets.zip?alt=media&token=9c27b849-8eaa-4ad0-ad1b-e97a2a61f7e1) | [mirror 2](https://drive.google.com/drive/folders/1KdY_BEnuetJ4_Qc5GZcyrSe7oGueP9qC?usp=sharing) | [mirror 3](https://drive.google.com/drive/folders/1tPPF9KArnD3lKrSW7sHnz9UUzZ7U7Kwh?usp=sharing) ]
 
 ### Content
 
