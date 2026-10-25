@@ -4,7 +4,7 @@ This repository is a backup and archive of the Mu Online forums signatures reque
 
 The original website was hosted on Google Sites, Free Webs, and Photobucket before the services shut down or changed their free hosting policies.
 
-The animated GIFs and large reference graphics files are now hosted on Firebase Storage to save space on GitHub. The website retains references to original assets that are still available on Photobucket.
+The animated GIFs and large reference graphics files are now hosted on Google Drive (hi-resolution GIFs) and Cloudinary (300x82 thumbnails) to save space on GitHub. The website retains references to original assets that are still available on Photobucket.
 
 **NOTE:** The original site templates use static files and outdated HTML/JS approaches. Some functionality on various pages may not work on modern browsers.
 
