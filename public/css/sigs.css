@@ -93,3 +93,7 @@ A:hover IMG {
 .footer-link a:hover {
 	TEXT-DECORATION: underline;
 }
+
+.quick-links ul {
+	padding-left: 32px;
+}
